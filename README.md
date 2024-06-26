@@ -1,4 +1,4 @@
-# Hospital-Ward-Management-System-Object-Orientated-Java-Programming
+# Hospital Ward Management-System using Object Orientated Java
 
 I developed a WardManagement program for hospital staff to view and manage patients, including their visits. This project involved creating multiple classes, implementing various functionalities, and ensuring robust exception handling. 
 
